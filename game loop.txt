@@ -1,10 +1,11 @@
-Game Idea - 
-
 Concept - Multiple factions fighting over to conquer the world
 
 Type of Game - Strategy / Battle / PC / Mid-Core
 
 Core Loop - Cue -> Action -> Reward
+
+look at map -> see enemy -> enter battle -> fight -> collect reward
+
 battle: 
 - cards
 - dice
@@ -20,14 +21,22 @@ Meta Loop - upgrade skills / stats
 - skills/abilities/talents
 - upgrade
 - territory
-- 
 
 Social Loop - stats/faction ranking
 
-Mood Board -
+Mood Board - 
 
-Lore - Once upon a time, there was a wise sage who ruled the world, united all nations, and brought peace upon the lands.
+Lore: 
+Once upon a time, there was a wise sage who ruled the world, united all nations, and brought peace upon the lands.
 "Knowledge is power"—the most famous quote ever said by a once renowned legend.
+
+One day, the grand sage suddenly disappeared—forever— leaving only one last message: 
+"There shall come a day when all of humanity live in harmony. Until that day, I may leave the land to you, the new ruler—grand sage"
+
+Since the news spread, nations break apart, all who interpreted the message try to become the new ruler.
+As the sage has said, until that day, I may leave the land to you...
+
+// cutscene star falling with a newborn of an aspiring hero with special powers.
 
 ---------------------------------------------------------------------------------------------------------
 
